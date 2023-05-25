@@ -1,2 +1,4 @@
-first line.
-second line.
+
+first.txt ->
+first line
+second line
