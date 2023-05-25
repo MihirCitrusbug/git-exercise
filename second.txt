@@ -1,0 +1,3 @@
+second.txt ->
+first line
+second line
